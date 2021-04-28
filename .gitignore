@@ -1,0 +1,10 @@
+.vs/
+obj/
+bin/
+packages/
+src/BasicKnowledge/bin/Debug/
+src/MyWebApi/BasicKnowledge/obj/
+src/MyWebApi/MyWebApi.App.User/bin/
+src/MyWebApi/MyWebApi.App.User/obj/
+src/MyWebApi/DtoLib/bin/
+src/MyWebApi/DtoLib/obj/
